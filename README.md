@@ -1,4 +1,4 @@
-# TAHIR Rida - Software Engineering Enthusiast 👨‍💻
+# TAHIR Rida - Software Engineering Student 👨‍💻
 
 Hey there! 👋 I'm TAHIR Rida, a dedicated software engineering student with a passion for web development, particularly in the React ecosystem. I thrive on crafting seamless and user-friendly experiences, and my tech stack is as diverse as it gets!
 
