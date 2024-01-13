@@ -23,7 +23,7 @@ Hey there! 👋 I'm TAHIR Rida, a dedicated software engineering student with a 
 
 ## Databases 🛢️
 
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+- ![MySQL](https://icons8.com/icon/39855/mysql-logo)
 - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 ## Operating System 🐧
