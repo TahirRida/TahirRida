@@ -37,8 +37,7 @@ Hey there! 👋 I'm TAHIR Rida, a dedicated software engineering student with a 
 - Checking out code on [GitHub](https://github.com/TahirRida)
 
 ## 📈 GitHub Stats
-
-![Tahir Rida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahirRida&show_icons=true&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahirRida)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Let's connect and collaborate!
 
