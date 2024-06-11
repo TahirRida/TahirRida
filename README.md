@@ -4,44 +4,54 @@ Hey there! 👋 I'm TAHIR Rida, a dedicated software engineering student with a 
 
 ## Programming Languages 💻
 
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-- ![Python](https://img.icons8.com/color/48/000000/python.png)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+</p>
 
 ## Frontend Technologies 🚀
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+</p>
 
 ## Backend Technologies 🌐
 
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-- ![Express](https://img.icons8.com/color/48/000000/express.png)
-- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>
+</p>
 
 ## Databases 🛢️
 
-- ![MySQL](https://icons8.com/icon/rgPSE6nAB766/mysql
-)
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+</p>
 
 ## Operating System 🐧
 
-- ![Linux](https://img.icons8.com/color/48/000000/linux.png)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+</p>
 
 ## 🌐 Find me around the web
 
-- Sharing updates on [LinkedIn]([https://www.linkedin.com/in/tahirrida/](https://www.linkedin.com/in/rida-tahir-72a2b9213/))
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/rida-tahir-72a2b9213/)
 - Checking out code on [GitHub](https://github.com/TahirRida)
 
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahirRida)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahirRida&show_icons=true&theme=radical)
 
 ## 🔧 Let's connect and collaborate!
 
 Feel free to reach out if you want to discuss projects, collaborate on something exciting, or just chat about tech and life 😊✨
 
-[![Let's connect on LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue)]([https://www.linkedin.com/in/tahirrida/](https://www.linkedin.com/in/rida-tahir-72a2b9213/)https://www.linkedin.com/in/rida-tahir-72a2b9213/)
-
+[![Let's connect on LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue)](https://www.linkedin.com/in/rida-tahir-72a2b9213/)
